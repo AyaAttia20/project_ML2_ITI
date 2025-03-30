@@ -16,5 +16,6 @@ This project is focused on clustering and feature extraction techniques using  m
 - requirements.txt                 : all dependencies
 
 
-## 💡👋 If you like To get look ,Can Look the whole project on the notebook project.ipynb file 😊
+##💡If you like To get look ,Can Look the whole project on the notebook project.ipynb file😊
   
+hope good day to you 👋
