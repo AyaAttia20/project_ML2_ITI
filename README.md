@@ -2,7 +2,7 @@
 
 - Project Overview 📜
 
-This project is focused on clustering and feature extraction techniques using  machine learning 2 methods unsuperived Learning. The dataset used in this project is people_wiki.csv, which contains textual data for clustering.
+This project is focused on clustering and feature extraction techniques using  machine learning2 methods unsupervised Learning. The dataset used in this project is people_wiki.csv, which contains textual data for clustering.
 
 🔍 Strucure:
 - clustering_module.py             : Implements different clustering algorithms
@@ -16,6 +16,6 @@ This project is focused on clustering and feature extraction techniques using  m
 - requirements.txt                 : all dependencies
 
 
-##💡If you like To get look ,Can Look the whole project on the notebook project.ipynb file😊
+## 💡If you like To get look ,Can Look the whole project on the notebook project.ipynb file😊
   
 hope good day to you 👋
